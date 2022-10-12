@@ -5,9 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-
 // frame
-
 public class StudentManager implements StudentManagerInterface{
     public class StudentManager extends JFrame{
         public StudentManager(){
